@@ -1,2 +1,4 @@
-voice-x
-=======
+voix
+====
+
+Pronounced /voix/ or /vwa/
